@@ -7,6 +7,16 @@ I am good at modifying DCC tools and procedural modeling.
 
 </div>
 
+
+
+## My Skills
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,qt,gcp,ps,ae,unity,unreal,discord)](https://skillicons.dev)
+
+</div>
+
+
 ## My GitHub stats
 <div align="center">
   
