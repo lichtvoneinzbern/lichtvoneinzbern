@@ -1,7 +1,11 @@
 ## Hi there 👋
 I am good at modifying DCC tools and procedural modeling.
 
-![gitartwork](gitartwork.svg)
+<div align="center">
+  
+  ![gitartwork](gitartwork.svg)
+
+</div>
 
 ## My GitHub stats
 <div align="center">
