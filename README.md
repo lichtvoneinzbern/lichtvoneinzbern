@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 I am good at modifying DCC tools and procedural modeling.
 
 <div align="center">
@@ -9,7 +9,7 @@ I am good at modifying DCC tools and procedural modeling.
 
 
 
-## My Skills
+## 💼 My Skills
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=py,qt,gcp,ps,ae,unity,unreal,discord)](https://skillicons.dev) 
@@ -20,17 +20,25 @@ I am good at modifying DCC tools and procedural modeling.
 
 </div>
 
-## My GitHub stats
+## 📊 My GitHub stats
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=lichtvoneinzbern&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=lichtvoneinzbern&theme=onedark)](https://git.io/streak-stats)
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lichtvoneinzbern&count_private=true&show_icons=true&theme=tokyonight&hide_rank=True&hide=contribs"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lichtvoneinzbern&count_private=true&show_icons=true&theme=onedark&hide_rank=True&hide=contribs"/>
   </a>
   
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtvoneinzbern&hide=html,css,php,ruby,hcl,javascript&layout=compact&theme=tokyonight"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtvoneinzbern&hide=html,css,php,ruby,hcl,javascript&layout=compact&theme=onedark"/>
   </a>
+  
+</div>
+
+## 🏆 GitHub Profile Torophy
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lichtvoneinzbern&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
