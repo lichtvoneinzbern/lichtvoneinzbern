@@ -28,9 +28,8 @@ I am good at modifying DCC tools and procedural modeling.
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=lichtvoneinzbern&theme=transparent&hide_border=true" /></a>
   
   [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lichtvoneinzbern&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-    [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lichtvoneinzbern&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lichtvoneinzbern&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lichtvoneinzbern&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
